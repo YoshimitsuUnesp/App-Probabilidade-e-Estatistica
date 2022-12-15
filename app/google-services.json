@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885477062824",
+    "project_id": "mestatistica-66a18",
+    "storage_bucket": "mestatistica-66a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885477062824:android:17bc954ee5d3c4f6b56a9d",
+        "android_client_info": {
+          "package_name": "com.example.mestatistica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885477062824-msu56f5bkgo7o7pqi8k0sciv4sjdu3vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHnCJWH7X5M9KzD5HPBDjRsy3HKe4XeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885477062824-msu56f5bkgo7o7pqi8k0sciv4sjdu3vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
