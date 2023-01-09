@@ -5,4 +5,7 @@
     <string name="email">E-mail</string>
     <string name="senha">Senha</string>
     <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="nao_possui_conta">Não possui uma conta? Entrar sem login</string>
+    <string name="comecar_sem_login">Começar sem login</string>
 </resources>
